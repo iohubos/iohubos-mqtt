@@ -1,6 +1,6 @@
 # IOhubOS MQTT internal broker
 
-[![License](https://img.shields.io/github/license/grafana/grafana)](LICENSE)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-green)](LICENSE)
 [![CircleCI Build Status](https://circleci.com/gh/iohubos/iohubos-mqtt/tree/master.svg?style=shield)](https://circleci.com/gh/iohubos/iohubos-mqtt/tree/master)
 
 Preconfigured `eclipse-mosquitto` container for IOhubOS.
