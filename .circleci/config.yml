@@ -4,7 +4,7 @@ executors:
         environment:
             IMAGE_NAME: iohubos/iohubos-mqtt
         docker:
-            - image: circleci/buildpack-deps:stretch
+            - image: cimg/base:stable
 jobs:
     build:
         executor: docker-publisher
